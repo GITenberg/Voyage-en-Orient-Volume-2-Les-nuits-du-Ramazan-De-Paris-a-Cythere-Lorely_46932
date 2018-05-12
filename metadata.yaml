@@ -1,4 +1,8 @@
 _repo: Voyage-en-Orient-Volume-2-Les-nuits-du-Ramazan-De-Paris-a-Cythere-Lorely_46932
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46932-h/images/cover_orient02.jpg
 creator:
   author:
     agent_name: Nerval, Gérard de
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6559
     wikipedia: http://en.wikipedia.org/wiki/Gérard_de_Nerval
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46932#Voyage-en-Orient-Volume-2-Les-nuits-du-Ramazan-De-Paris-a-Cythere-Lorely
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2014-09-22'
 gutenberg_type: Text
